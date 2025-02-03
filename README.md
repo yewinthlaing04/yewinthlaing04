@@ -45,6 +45,8 @@
 <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>  
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>  
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yewinthlaing04&layout=compact&theme=radical)
+
 </div>
 
 ---
