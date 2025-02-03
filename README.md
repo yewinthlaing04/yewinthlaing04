@@ -45,9 +45,12 @@
 <img src="https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"/>  
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>  
 
-#### **Most Used Programming Language && Statistics**
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yewinthlaing04&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yewinthlaing04&show_icons=true&theme=radical)
+#### **Most Used Programming Languages & Statistics**
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yewinthlaing04&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yewinthlaing04&show_icons=true&theme=radical" width="48%" />
+</div>
 
 </div>
 
