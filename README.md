@@ -8,7 +8,7 @@
 - 🌎 I also have experience with **Angular, Dart, JavaScript, Python**  
 - 🛢️ Databases I use: **MySQL, PostgreSQL, MongoDB**  
 - 🛠️ DevOps & Cloud: **Docker, Kubernetes, AWS**  
-- 📚 Currently learning **Advanced Kubernetes & System Design**  
+- 📚 Currently learning **Design Patterns & Flutter & Domain Driven Architecture**  
 
 ---
 
