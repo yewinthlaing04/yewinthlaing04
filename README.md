@@ -47,9 +47,10 @@
 
 #### **Most Used Programming Languages & Statistics**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yewinthlaing04&layout=compact&theme=radical" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api?username=yewinthlaing04&show_icons=true&theme=radical" width="48%" />
-
+<div style="display: flex; justify-content: space-around;">
+  <img src="your_image_url" alt="Most Used Languages" width="400" />
+  <img src="your_image_url" alt="GitHub Stats" width="400" />
+</div>
 
 </div>
 
