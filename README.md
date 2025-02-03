@@ -1,4 +1,4 @@
-# 👋 Hey there! I'm Ye Wint Hlaing
+# 👋 Hello! I'm Ye Wint Hlaing 
 
 🚀 **Backend Engineer** | 💡 **Passionate about Scalable Systems** | ☁️ **Cloud & DevOps Enthusiast**  
 
