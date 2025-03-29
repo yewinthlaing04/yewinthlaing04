@@ -4,7 +4,7 @@
 
 ### 👨‍💻 About Me  
 - 🔥 I specialize in **Backend Development & Microservices Architecture**  
-- 💻 I primarily work with **Java (Spring Boot, Microservices)**  
+- 💻 I primarily work with **Java (Spring Boot, Microservices, Kafka, Docker, Redis)**  
 - 🌎 I also have experience with **Angular, Dart, JavaScript, Python**  
 - 🛢️ Databases I use: **MySQL, PostgreSQL, MongoDB**  
 - 🛠️ DevOps & Cloud: **Docker, Kubernetes, AWS**  
